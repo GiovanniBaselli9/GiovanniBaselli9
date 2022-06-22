@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## My name is Giovanni! 
 
-<div style="width:100%;height:0;padding-bottom:62%;position:relative;"><iframe src="https://giphy.com/embed/XO8RMtRaK73isIt0i2" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/ProBItExchange-dog-hello-hi-XO8RMtRaK73isIt0i2">via GIPHY</a></p>
+(https://media4.giphy.com/media/XO8RMtRaK73isIt0i2/giphy.gif?cid=ecf05e47budcj6shvzi8rlm8e3m4fvhenrv3gdhkac17y5kf&rid=giphy.gif&ct=g)
 
 🔭 I'm an IT engineering student of Università degli studi di Brescia, in Italy!
 You can see some of my academic projects here!
