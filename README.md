@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## My name is Giovanni! 
 
-(https://media4.giphy.com/media/XO8RMtRaK73isIt0i2/giphy.gif?cid=ecf05e47budcj6shvzi8rlm8e3m4fvhenrv3gdhkac17y5kf&rid=giphy.gif&ct=g)
+[gif](https://media4.giphy.com/media/XO8RMtRaK73isIt0i2/giphy.gif?cid=ecf05e47budcj6shvzi8rlm8e3m4fvhenrv3gdhkac17y5kf&rid=giphy.gif&ct=g)
 
 🔭 I'm an IT engineering student of Università degli studi di Brescia, in Italy!
 You can see some of my academic projects here!
@@ -9,7 +9,7 @@ You can see some of my academic projects here!
 
 
 My contacts:
-* [giovanni.baselli.1998@gmail.com]<mailto:giovanni.baselli.1998@gmail.com>
+* [giovanni.baselli.1998@gmail.com](mailto:giovanni.baselli.1998@gmail.com)
 * [LinkedIn](https://www.linkedin.com/in/giovannibaselli/)
 
 
